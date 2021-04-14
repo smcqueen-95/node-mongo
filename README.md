@@ -12,7 +12,7 @@ Software Developer and aspiring Game Developer
 
 # Project 
 
-![Video](./src/assets/images/angular.gif)
+![Video](./assets/node-mongo.gif)
 
 ## Experience with Project
 
