@@ -72,6 +72,8 @@ npm start
 `
 to view the results of your code in the console. 
 
+# Compiles
+
 ### Compiles and hot-reloads for development
 
 `
